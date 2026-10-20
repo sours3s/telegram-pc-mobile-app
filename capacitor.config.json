@@ -1,0 +1,6 @@
+{
+  "appId": "com.telegram.pccontroller",
+  "appName": "PC Controller Pro",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
